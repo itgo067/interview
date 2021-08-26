@@ -2,23 +2,23 @@
 
 > 题库非常全面包含了 Java基础、容器、多线程、JVM、并发编程、MySQL、Redis、MongoDB、Spring、SpringBoot、Mybatis、SpringCloud、Dubbo、Zookeeper、Kafka、Nginx、MQ、网络、数据结构与算法、Linux等等
 
-👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/index.md)**
+👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
 
-👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/index.md)**
+👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
 
-👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/index.md)**
+👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
 
 
 # 面试题索引
 
 |   |   |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  [Java基础](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/Java%E5%9F%BA%E7%A1%80.md) |  [Java集合&容器](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/Java%E9%9B%86%E5%90%88&%E5%AE%B9%E5%99%A8.md)   |  [JVM](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/JVM.md)   |  [Java并发编程](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B.md)   |  [字符串&&集合](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/%E5%AD%97%E7%AC%A6%E4%B8%B2&%E9%9B%86%E5%90%88.md)    |
-|  [网络协议](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE.md) |  [数据结构与算法](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)   |  [MySQL](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/database/MySQL.md)   |  [Redis](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/database/Redis.md)   |  [MongoDB](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/database/MongoDB.md)    |
-|  [1000行SQL命令](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/database/%E4%B8%80%E5%8D%83%E8%A1%8CMySQL%E5%91%BD%E4%BB%A4.md) |  [52条SQL语句性能优化策略](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/database/52%E6%9D%A1SQL%E8%AF%AD%E5%8F%A5%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5.md)   |  [Linux常用命令](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)   |  [Linux面试题](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/linux/Linux%E9%9D%A2%E8%AF%95%E9%A2%98%20.md)   |  [Dubbo](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/middleware/Dubbo.md)    |
-|  [ElasticSearch](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/middleware/ElasticSearch.md) |  [Kafka](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/middleware/Kafka.md)   |  [Nginx](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/middleware/Nginx.md)   |  [MQ](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/middleware/RabbitMQ.md)   |  [Zookeeper](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/middleware/zookeeper.md)    |
-|  [Spring](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/%E6%A1%86%E6%9E%B6/Spring.md) |  [SpringBoot](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/%E6%A1%86%E6%9E%B6/SpringBoot.md)   |  [SpringCloud](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/%E6%A1%86%E6%9E%B6/SpringCloud.md)   |  [Spring常用注解](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/%E6%A1%86%E6%9E%B6/SpringBoot%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3.md)   |  [MyBatis](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/%E6%A1%86%E6%9E%B6/MyBatis.md)    |
-|  [Git常用命令](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/other/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md) |  |   |  []()   |  []()    |
+|  [Java基础](https://github.com/itgogogogo/interview/blob/main/Java/Java%E5%9F%BA%E7%A1%80.md) |  [Java集合&容器](https://github.com/itgogogogo/interview/blob/main/Java/Java%E9%9B%86%E5%90%88&%E5%AE%B9%E5%99%A8.md)   |  [JVM](https://github.com/itgogogogo/interview/blob/main/Java/JVM.md)   |  [Java并发编程](https://github.com/itgogogogo/interview/blob/main/base/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B.md)   |  [字符串&&集合](https://github.com/itgogogogo/interview/blob/main/Java/%E5%AD%97%E7%AC%A6%E4%B8%B2&%E9%9B%86%E5%90%88.md)    |
+|  [网络协议](https://github.com/itgogogogo/interview/blob/main/Java/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE.md) |  [数据结构与算法](https://github.com/itgogogogo/interview/blob/main/Java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)   |  [MySQL](https://github.com/itgogogogo/interview/blob/main/mysql/MySQL.md)   |  [Redis](https://github.com/itgogogogo/interview/blob/main/mysql/Redis.md)   |  [MongoDB](https://github.com/itgogogogo/interview/blob/main/mysql/MongoDB.md)    |
+|  [1000行SQL命令](https://github.com/itgogogogo/interview/blob/main/mysql/%E4%B8%80%E5%8D%83%E8%A1%8CMySQL%E5%91%BD%E4%BB%A4.md) |  [52条SQL语句性能优化策略](https://github.com/itgogogogo/interview/blob/main/mysql/52%E6%9D%A1SQL%E8%AF%AD%E5%8F%A5%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5.md)   |  [Linux常用命令](https://github.com/itgogogogo/interview/blob/main/linux/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)   |  [Linux面试题](https://github.com/itgogogogo/interview/blob/main/linux/Linux%E9%9D%A2%E8%AF%95%E9%A2%98%20.md)   |  [Dubbo](https://github.com/itgogogogo/interview/blob/main/dubbo/Dubbo.md)    |
+|  [ElasticSearch](https://github.com/itgogogogo/interview/blob/main/elasticsearch/ElasticSearch.md) |  [Kafka](https://github.com/itgogogogo/interview/blob/main/kafka/Kafka.md)   |  [Nginx](https://github.com/itgogogogo/interview/blob/main/middleware/Nginx.md)   |  [MQ](https://github.com/itgogogogo/interview/blob/main/middleware/RabbitMQ.md)   |  [Zookeeper](https://github.com/itgogogogo/interview/blob/main/middleware/zookeeper.md)    |
+|  [Spring](https://github.com/itgogogogo/interview/blob/main/spring/Spring.md) |  [SpringBoot](https://github.com/itgogogogo/interview/blob/main/spring/SpringBoot.md)   |  [SpringCloud](https://github.com/itgogogogo/interview/blob/main/spring/SpringCloud.md)   |  [Spring常用注解](https://github.com/itgogogogo/interview/blob/main/spring/SpringBoot%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3.md)   |  [MyBatis](https://github.com/itgogogogo/interview/blob/main/mybatis/MyBatis.md)    |
+|  [Git常用命令](https://github.com/itgogogogo/interview/blob/main/git/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md) |  |   |  []()   |  []()    |
 
 
 # Java基础概念
@@ -873,7 +873,7 @@ Java异常机制可以使程序中异常处理代码和正常业务代码分离�
 
 ### 7. Excption与Error包结构
 
-更多异常面试题及答案，都整理成了PDF: [完整版Java面试高清PDF合集](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/index.md)
+更多异常面试题及答案，都整理成了PDF: [完整版Java面试高清PDF合集](https://github.com/itgogogogo/interview/blob/main/index.md)
 
 # Java集合 & 容器
 ### 什么是集合
@@ -941,9 +941,9 @@ static final int DEFAULT_INITIAL_CAPACITY = 1 << 4; // aka 16
 
 ### ArrayList和Array有什么区别?
 
-## 更多Java集合 & 容器面试题：  [Java集合 & 容器 面试题](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/base/Java%E9%9B%86%E5%90%88&%E5%AE%B9%E5%99%A8.md)
+## 更多Java集合 & 容器面试题：  [Java集合 & 容器 面试题](https://github.com/itgogogogo/interview/blob/main/Java/base/Java%E9%9B%86%E5%90%88&%E5%AE%B9%E5%99%A8.md)
 
-完整PDF下载：[高清Java面试合集 PDF 下载](https://gitee.com/tiger-a/java-interview/blob/master/interviewDoc/Java/qr.md)
+完整PDF下载：[高清Java面试合集 PDF 下载](https://github.com/itgogogogo/interview/blob/main/Java/qr.md)
 
 
 Array可以容纳基本类型和对象，而ArrayList只能容纳对象。
