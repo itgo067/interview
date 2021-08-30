@@ -2,11 +2,11 @@
 
 > 题库非常全面包含了 Java基础、容器、多线程、JVM、并发编程、MySQL、Redis、MongoDB、Spring、SpringBoot、Mybatis、SpringCloud、Dubbo、Zookeeper、Kafka、Nginx、MQ、网络、数据结构与算法、Linux等等
 
-👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
+👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://mp.weixin.qq.com/s?__biz=MzI1MTQ3MDM1MA==&mid=100002266&idx=1&sn=00a44a2cbef83cd4f6ab45c5bb1725e7&chksm=69f33ebb5e84b7ad89740f7ca8aacc0aa56b29b44e6242d2089a2fec3a3b742b9b5fce82557f#rd)**
 
-👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
+👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://mp.weixin.qq.com/s?__biz=MzI1MTQ3MDM1MA==&mid=100002266&idx=1&sn=00a44a2cbef83cd4f6ab45c5bb1725e7&chksm=69f33ebb5e84b7ad89740f7ca8aacc0aa56b29b44e6242d2089a2fec3a3b742b9b5fce82557f#rd)**
 
-👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
+👉 **Java面试题完整版附答案，高清PDF下载：[Java面试整理高清PDF下载](https://mp.weixin.qq.com/s?__biz=MzI1MTQ3MDM1MA==&mid=100002266&idx=1&sn=00a44a2cbef83cd4f6ab45c5bb1725e7&chksm=69f33ebb5e84b7ad89740f7ca8aacc0aa56b29b44e6242d2089a2fec3a3b742b9b5fce82557f#rd)**
 
 # 面试题索引
 
@@ -18,7 +18,6 @@
 |  [ElasticSearch](https://github.com/itgogogogo/interview/blob/main/elasticsearch/ElasticSearch.md) |  [Kafka](https://github.com/itgogogogo/interview/blob/main/kafka/Kafka.md)   |  [Nginx](https://github.com/itgogogogo/interview/blob/main/middleware/Nginx.md)   |  [MQ](https://github.com/itgogogogo/interview/blob/main/middleware/RabbitMQ.md)   |  [Zookeeper](https://github.com/itgogogogo/interview/blob/main/middleware/zookeeper.md)    |
 |  [Spring](https://github.com/itgogogogo/interview/blob/main/spring/Spring.md) |  [SpringBoot](https://github.com/itgogogogo/interview/blob/main/spring/SpringBoot.md)   |  [SpringCloud](https://github.com/itgogogogo/interview/blob/main/spring/SpringCloud.md)   |  [Spring常用注解](https://github.com/itgogogogo/interview/blob/main/spring/SpringBoot%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3.md)   |  [MyBatis](https://github.com/itgogogogo/interview/blob/main/mybatis/MyBatis.md)    |
 |  [Git常用命令](https://github.com/itgogogogo/interview/blob/main/git/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md) |  |   |    |      |
-
 
 # 推荐
 

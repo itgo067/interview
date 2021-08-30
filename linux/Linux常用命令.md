@@ -1,8 +1,8 @@
-**所有问题以及答案，我都整理成了高清PDF，并且带目录：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
+**所有问题以及答案，我都整理成了高清PDF，并且带目录：[Java面试整理高清PDF下载](https://mp.weixin.qq.com/s?__biz=MzI1MTQ3MDM1MA==&mid=100002266&idx=1&sn=00a44a2cbef83cd4f6ab45c5bb1725e7&chksm=69f33ebb5e84b7ad89740f7ca8aacc0aa56b29b44e6242d2089a2fec3a3b742b9b5fce82557f#rd)**
 
-**所有问题以及答案，我都整理成了高清PDF，并且带目录：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
+**所有问题以及答案，我都整理成了高清PDF，并且带目录：[Java面试整理高清PDF下载](https://mp.weixin.qq.com/s?__biz=MzI1MTQ3MDM1MA==&mid=100002266&idx=1&sn=00a44a2cbef83cd4f6ab45c5bb1725e7&chksm=69f33ebb5e84b7ad89740f7ca8aacc0aa56b29b44e6242d2089a2fec3a3b742b9b5fce82557f#rd)**
 
-**所有问题以及答案，我都整理成了高清PDF，并且带目录：[Java面试整理高清PDF下载](https://github.com/itgogogogo/interview/blob/main/index.md)**
+**所有问题以及答案，我都整理成了高清PDF，并且带目录：[Java面试整理高清PDF下载](https://mp.weixin.qq.com/s?__biz=MzI1MTQ3MDM1MA==&mid=100002266&idx=1&sn=00a44a2cbef83cd4f6ab45c5bb1725e7&chksm=69f33ebb5e84b7ad89740f7ca8aacc0aa56b29b44e6242d2089a2fec3a3b742b9b5fce82557f#rd)**
 
 
 ### 启动网络命令
